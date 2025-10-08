@@ -1,0 +1,1 @@
+# Verification Plan (VPlan)\n\nObjectives: coverage ≥95%, SVAs pass, CI green.\n

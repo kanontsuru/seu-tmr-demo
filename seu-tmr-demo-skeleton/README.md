@@ -1,0 +1,1 @@
+# SEU/TMR Fault-Tolerance Demo\n\nGoal: TMR voter + fault injection + campaign report\n\nFolder layout ready. Fill VPlan.md and RTM.csv, then push artifacts.\n
